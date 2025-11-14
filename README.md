@@ -4,4 +4,4 @@
 
 可以在公众号中，根据时间顺序找到对应推文，**大家一起学习进步！**
 
-![BioXCG](images/example.png)
+![BioXCG](images/BioXCG.png)
